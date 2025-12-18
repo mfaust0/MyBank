@@ -26,7 +26,7 @@ Traccia 6: Sviluppo di una applicazione full-stack API-based per un'impresa del 
     Apri il terminale ed esegui:
     ```bash
     git clone https://github.com/mfaust0/MyBank.git
-    cd mybank
+    cd MyBank
     ```
 
 2.  **Avviare i container:**
