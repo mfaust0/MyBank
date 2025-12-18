@@ -7,9 +7,6 @@ Matricola: 0312400584
 Tema 1: La digitalizzazione dell'impresa  
 Traccia 6: Sviluppo di una applicazione full-stack API-based per un'impresa del settore finanziario
 
-L'impresa opera nel settore bancario e offre una piattaforma completamente digitale che permette agli utenti di aprire un conto corrente digitale ed effettuare le principali operazioni.
-Il servizio è disponibile 24/7 e da qualsiasi luogo
-
 **Tecnologie Utilizzate:**
 *   **Frontend:** Vue.js 3
 *   **Backend:** FastAPI
